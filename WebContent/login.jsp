@@ -1,6 +1,7 @@
 <%@ taglib prefix="s" uri="/struts-tags"%>
 <html>
 <head>
+<!--Login Page -->
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
 </head>
